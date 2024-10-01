@@ -1,5 +1,6 @@
 public static void main()
 {
 System.out.println("added main method");
+System.out.println("added main method");
 
 }
